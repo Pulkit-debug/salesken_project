@@ -50,9 +50,9 @@ public class StudentRepository {
 
         if (response.found()) {
             record = response.source();
-            System.out.println("Invoice name is: " + record.getName());
+            System.out.println("Record name is: " + record.getName());
         } else {
-            System.out.println ("Invoice not found");
+            System.out.println ("Record not found");
         }
         return record;
     }
