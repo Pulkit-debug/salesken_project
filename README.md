@@ -16,7 +16,8 @@
 
 ----------------<h2>Screen Shots for a better Understanding</h2>---------
 <h4>Local Web App</h4>
-![Screenshot (112)](https://user-images.githubusercontent.com/55589024/206358578-3cdc0006-089a-4558-985b-fcf810c0099e.png) running on port 8080
+![alt text](https://user-images.githubusercontent.com/55589024/206358578-3cdc0006-089a-4558-985b-fcf810c0099e.png?raw=true)
+![Screenshot (112)]() running on port 8080
 
 <h4>Graphical Representation of Average marks of students in all subjects</h4>
 ![Screenshot (102)](https://user-images.githubusercontent.com/55589024/206361173-75b28e2d-3714-4d04-933c-798fe80da713.png)
