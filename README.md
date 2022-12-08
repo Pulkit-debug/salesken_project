@@ -17,19 +17,20 @@
 ----------------<h2>Screen Shots for a better Understanding</h2>---------
 <h4>Local Web App</h4>
 <img src="https://user-images.githubusercontent.com/55589024/206358578-3cdc0006-089a-4558-985b-fcf810c0099e.png">
-![Screenshot (112)]() running on port 8080
+running on port 8080
 
 <h4>Graphical Representation of Average marks of students in all subjects</h4>
-![Screenshot (102)](https://user-images.githubusercontent.com/55589024/206361173-75b28e2d-3714-4d04-933c-798fe80da713.png)
+<img src="https://user-images.githubusercontent.com/55589024/206361173-75b28e2d-3714-4d04-933c-798fe80da713.png">
 
 <h4> Average Percent of whole class in Semester 1 </h4>
-![Screenshot (103)](https://user-images.githubusercontent.com/55589024/206361413-96c0c12e-088e-4acb-9cc3-81b2d918a4f6.png)
+<img src="https://user-images.githubusercontent.com/55589024/206361413-96c0c12e-088e-4acb-9cc3-81b2d918a4f6.png">
 
 <h4> Average Percent of whole class in Semester 2 </h4>
-![Screenshot (104)](https://user-images.githubusercontent.com/55589024/206361432-9e0781b0-19e1-4972-9be3-8facf59ea010.png)
+<img src="https://user-images.githubusercontent.com/55589024/206361432-9e0781b0-19e1-4972-9be3-8facf59ea010.png">
 
 <h4> Top 2 Maximum Performers across all semesters </h4>
-![Screenshot (104)](https://user-images.githubusercontent.com/55589024/206361538-35e2652d-196d-4162-a0c6-1c5fc6a8321f.png)
+<img src="https://user-images.githubusercontent.com/55589024/206361538-35e2652d-196d-4162-a0c6-1c5fc6a8321f.png">
+
 
 
 
