@@ -29,7 +29,7 @@ running on port 8080
 <img src="https://user-images.githubusercontent.com/55589024/206361432-9e0781b0-19e1-4972-9be3-8facf59ea010.png">
 
 <h4> Top 2 Maximum Performers across all semesters </h4>
-<img src="https://user-images.githubusercontent.com/55589024/206361538-35e2652d-196d-4162-a0c6-1c5fc6a8321f.png">
+<img src="https://user-images.githubusercontent.com/55589024/206363283-ea53026f-c241-4878-8d8d-bbd22915415b.png">
 
 
 
